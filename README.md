@@ -6,3 +6,6 @@ A word guessing game coded in Python. Instruction document can be viewed here: [
 
 ### Portfolio Web Crawler
 A web scrapper project coded in Python. Report document can be viewed here: [Word Document](Portfolio Web Crawler/Portfolio Web Crawler Report.docx)
+
+### Portfolio Assignment WordNet
+A Python noteboook containing basic WordNet code. Notebook can be viewed here: [PDF Document](Portfolio Assignment WordNet/Portfolio Assignment WordNet.pdf)
