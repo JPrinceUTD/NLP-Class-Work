@@ -103,7 +103,7 @@ if __name__ == "__main__":
         if solFile_list[line_count] == predictedFile_list[line_count]:
             correct += 1
         else:
-            print(line_count)
+            print(str(line_count + 1))
         line_count += 1
 
     accuracy_percent = float(correct / line_count) * 100
