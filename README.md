@@ -10,7 +10,8 @@ A web scrapper project coded in Python. Report document can be viewed here: [Wor
 Code can be viewed here: [Python Code](Portfolio Web Crawler/main.py)
 
 ### Portfolio Assignment WordNet
-A Python noteboook containing basic WordNet code. Notebook can be viewed here: [PDF Document](Portfolio Assignment WordNet/Portfolio Assignment WordNet.pdf)
+A Python noteboook containing basic WordNet code. Notebook can be viewed here: [Google Collab Notebook](Portfolio Assignment WordNet/Portfolio_Assignment_WordNet.ipynb),
+[PDF Document](Portfolio Assignment WordNet/Portfolio Assignment WordNet.pdf)
 
 ### Portfolio Chapter 8 N-grams
 An assignment coded in Python. Trains English, French, Italian language models. Uses those models to predict language of each line of test data. Narrative can be viewed here: [Word Document](Portfolio Chapter 8/Portfolio Chapter 8 N-grams Narrative.docx)
