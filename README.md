@@ -3,7 +3,7 @@ A repository containing mostly coding assignments from NLP master's course at UT
 
 ### Portfolio Chapter 5
 A word guessing game coded in Python. Instruction document can be viewed here: [PDF Document](Portfolio Chapter 5/Portfolio Chapter 5 Word Guess Game.pdf).
-Code can be viewed here: [Python Project](Portfolio Chapter 5).
+Code can be viewed here: [Python Project](Portfolio Chapter 5/main.py).
 
 ### Portfolio Web Crawler
 A web scrapper project coded in Python. Report document can be viewed here: [Word Document](Portfolio Web Crawler/Portfolio Web Crawler Report.docx)
