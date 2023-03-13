@@ -17,3 +17,6 @@ A Python noteboook containing basic WordNet code. Notebook can be viewed here: [
 An assignment coded in Python. Trains English, French, Italian language models. Uses those models to predict language of each line of test data. Code can be viewed here:
 [Python Program 1](Portfolio Chapter 8/program-1.py), [Python Program 2](Portfolio Chapter 8/program-2.py).
 Narrative can be viewed here: [Word Document](Portfolio Chapter 8/Portfolio Chapter 8 N-grams Narrative.docx)
+
+### Portfolio Assignment Sentence Parsing
+A conceptual paper activity on sentence parsing. PDF document on sentence parsing can be viewed here: [PDF Document](Portfolio Assignment Sentence Parsing/Portfolio Component Sentence Parsing.pdf).
