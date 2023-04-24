@@ -31,6 +31,9 @@ Knowledge base can be viewed here: [JSON](Chatbot Project/intents.json). Code us
 A Python notebook containing basic text classification code using naive bayes, logistic regression, and neural network models. Notebook can be viewed
 here: [Google Colab Notebook](Text Classification 1/Text_Classification_1.ipynb), [PDF Document](Text Classification 1/Text Classification 1.pdf).
 
+### Portfolio ACL Paper Summary
+ACL paper summary document can be viewed here: [Word Document](Portfolio ACL Paper Summary/Portfolio ACL Paper Summary.docx).
+
 ### Text Classification 2
 A Python notebook containing basic text classification code using deep learning models. Notebook can be viewed here:
 [Google Colab Notebook](Text Classification 2/Text_Classification_2.ipynb), [PDF Document](Text Classification 2/Text Classification 2.pdf).
