@@ -1,5 +1,6 @@
 # NLP-Class-Work
 A repository containing mostly coding assignments from NLP master's course at UTD. The overview of NLP PDF document can be viewed here: [PDF Document](Overview of NLP.pdf).
+Page containing relevant technical and soft skills can be viewed here: [Link](https://jprinceutd.github.io/NLP-Class-Work/NLP Portfolio Relevant Skills.html).
 
 ### Portfolio Chapter 5
 A word guessing game coded in Python. Instruction document can be viewed here: [PDF Document](Portfolio Chapter 5/Portfolio Chapter 5 Word Guess Game.pdf).
