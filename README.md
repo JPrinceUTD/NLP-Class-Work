@@ -28,5 +28,9 @@ Report document can be viewed here: [Word Document](Chatbot Project/Chatbot Repo
 Knowledge base can be viewed here: [JSON](Chatbot Project/intents.json). Code used to add to knowledge base can be viewed here: [Python Code](Chatbot Project/intent_creation.py).
 
 ### Text Classification 1
-A Python notebook containing basic text classicafication code using naive bayes, logistic regression, and neural network models. Notebook can be viewed
+A Python notebook containing basic text classification code using naive bayes, logistic regression, and neural network models. Notebook can be viewed
 here: [Google Colab Notebook](Text Classification 1/Text_Classification_1.ipynb), [PDF Document](Text Classification 1/Text Classification 1.pdf).
+
+### Text Classification 2
+A Python notebook containing basic text classification code using deep learning models. Notebook can be viewed here:
+[Google Colab Notebook](Text Classification 2/Text_Classification_2.ipynb), [PDF Document](Text Classification 2/Text Classification 2.pdf).
