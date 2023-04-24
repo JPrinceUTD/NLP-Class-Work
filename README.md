@@ -2,6 +2,15 @@
 A repository containing mostly coding assignments from NLP master's course at UTD. The overview of NLP PDF document can be viewed here: [PDF Document](Overview of NLP.pdf).
 Page containing relevant technical and soft skills can be viewed here: [Link](https://jprinceutd.github.io/NLP-Class-Work/NLP Portfolio Relevant Skills.html).
 
+## NLP Reflection Summary
+After taking the NLP master's course at UTD, I have gained valuable technical knowlege about NLP concepts and technologies. Some of this skills include parsing user
+input, tokenizing words and sentences, other text preprocessing skills, part of speech concepts and tools, machine learning, building naive-bayes, logistic regression,
+neural network, and deep learning models to do text classification, web scrapping, sentence parsing concepts and tools, and building chatbots. I am interested in the
+capabilities of NLP and some of the uses of NLP in real world applications. However, in the near future, I do not plan on look into or doing NLP projects or work, but I do think
+what I have learning in this course will be useful much later in my career. Currently, I am not interested in shifting my career to a data science field since
+I am still more interested in the software side of my field. If my field does deviate to the data science field to the point where it is more significant than the software
+side, in terms of job opportunities, I know I will be ready to shift when needed with the knowledge that I have gained in this course.
+
 ### Portfolio Chapter 5
 A word guessing game coded in Python. Instruction document can be viewed here: [PDF Document](Portfolio Chapter 5/Portfolio Chapter 5 Word Guess Game.pdf).
 Code can be viewed here: [Python Code](Portfolio Chapter 5/main.py).
